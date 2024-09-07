@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="false" />
+    <profile name="sbt 1" modules="scala-compiler-crash-cc-unapply,scala-compiler-crash-cc-unapply.crossScala3Scala2,scala-compiler-crash-cc-unapply.libCompiledAsScala2,scala-compiler-crash-nested-cc,scala-compiler-crash-nested-cc.crossScala3Scala2,scala-compiler-crash-nested-cc.libCompiledAsScala2,scala-compiler-crash-nested-cc.libCompiledAsScala3,scala-compiler-crash-nested-cc.standAloneScala2,scala-compiler-crash-nested-cc.standAloneScala3" />
+  </component>
+</project>
